@@ -1,0 +1,6 @@
+[submodule "app/DeepFilterNet"]
+	path = app/DeepFilterNet
+	url = https://github.com/Rikorose/DeepFilterNet
+[submodule "app/audio-preprocess"]
+	path = app/audio-preprocess
+	url = https://github.com/fishaudio/audio-preprocess
