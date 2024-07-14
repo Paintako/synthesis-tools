@@ -1,4 +1,9 @@
 # Mi2s Text to speech audio process tools 
+## Git clone
+Copy the following commands to clone this repository and all submodules.
+```sh
+git clone --recurse-submodules https://github.com/Paintako/syntehsis-tools.git
+```
 ## Docker
 ### Build
 Make sure you're under the folder which contains `Dockerfile`
